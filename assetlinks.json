@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.apprn.minh.vgasoft",
+    "sha256_cert_fingerprints":
+    ["B2:DF:5B:0B:9F:08:54:FA:3E:DD:77:A6:A0:8E:DE:5E:AF:08:18:2D:88:F8:13:42:F0:A6:9B:14:78:90:B0:20"]
+  }
+}]
